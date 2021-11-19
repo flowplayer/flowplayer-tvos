@@ -8,7 +8,7 @@ Use the package manager [CocoaPods](https://cocoapods.org/) to install Flowplaye
 
 ```bash
 # PodFile
-pod 'Flowplayer-tvOS', '1.0.0'
+pod 'Flowplayer-tvOS', '1.0.1'
 pod 'GoogleAds-IMA-tvOS-SDK', '4.4.2'
 ```
 
