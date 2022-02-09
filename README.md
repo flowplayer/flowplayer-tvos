@@ -1,4 +1,6 @@
-Official Flowplayer SDK for tvOS.
+# Official Repository
+
+Official Flowplayer repository of the Flowplayer tvOS SDK.
 
 ## **Installation**
 
@@ -8,8 +10,8 @@ Use the package manager [CocoaPods](https://cocoapods.org/) to install Flowplaye
 
 ```bash
 # PodFile
-pod 'Flowplayer-tvOS', '1.0.0'
-pod 'GoogleAds-IMA-iOS-SDK', '4.4.2'
+pod 'Flowplayer-tvOS', '~> 1.0.2'
+pod 'GoogleAds-IMA-tvOS-SDK', '~> 4.4.2'
 ```
 
 and the run
@@ -20,7 +22,7 @@ pod install
 
 ### Manual integration
 
-Step 1: Download Flowplayer [here](https://github.com/flowplayer/flowplayer-tvos-sdk-public/releases).
+Step 1: Download Flowplayer [here](https://github.com/flowplayer/flowplayer-tvos/releases).
 
 Step 2: Add Flowplayer to project.
 
