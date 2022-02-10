@@ -1,6 +1,13 @@
-# Official Repository
+# Introduction
 
-Official Flowplayer repository of the Flowplayer tvOS SDK.
+FlowplayerSDK for tvOS is a fully fledged media manager that handles every aspect of media playback, ads and state.
+
+The Flowplayer tvOS SDK uses AVPlayer as its core and therefore takes advantage of all its powerful features.
+
+The SDK supports adaptive streaming technologies such as HLS, as well as the most popular single container formats, such as MP4, MP3, AVI, and several more.
+
+## Looking for the iOS version?
+You can find Flowplayer's iOS SDK [here](https://github.com/flowplayer/flowplayer-ios).
 
 ## **Installation**
 
@@ -10,8 +17,7 @@ Use the package manager [CocoaPods](https://cocoapods.org/) to install Flowplaye
 
 ```bash
 # PodFile
-pod 'Flowplayer-tvOS', '~> 1.0.2'
-pod 'GoogleAds-IMA-tvOS-SDK', '~> 4.4.2'
+pod 'Flowplayer-tvOS', '~> 1.0.3'
 ```
 
 and the run
@@ -28,7 +34,7 @@ Step 2: Add Flowplayer to project.
 
 Step 3: Add FlowplayerCore to project.
 
-Step 5: Add Flowplayer dependencies [Google IMA](https://developers.google.com/interactive-media-ads).
+Step 5: Add Flowplayer dependencies [Google IMA](https://developers.google.com/interactive-media-ads) version '4.4.2'.
 
 Step 6: Compile and run.
 
