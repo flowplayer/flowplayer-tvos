@@ -1,4 +1,8 @@
-# Introduction
+## Please check out Wowza Flowplayer Apple SDK
+
+This project has been archived and has been moved over to https://github.com/flowplayer/apple-sdk-releases our new and shiny SDK for Apple devices.
+
+## Introduction
 
 FlowplayerSDK for tvOS is a fully fledged media manager that handles every aspect of media playback, ads and state.
 
